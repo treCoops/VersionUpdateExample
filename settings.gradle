@@ -1,0 +1,3 @@
+rootProject.name = "VersionUpdateExample"
+include ':app'
+include ':VersionUpdate'
